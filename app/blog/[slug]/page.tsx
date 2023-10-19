@@ -12,7 +12,7 @@ export default function Page({ params }: Params) {
   return <>
   <h1>Slug: {params.slug}</h1>
   {/* Testnew de tim kiem trong render page.test.tsx */}
-  <p>Testnew</p>
+  <p>Testnew2</p>
   <p>Welcome to TV</p>
   </>
 }
